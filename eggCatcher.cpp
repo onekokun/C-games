@@ -171,7 +171,7 @@ int main(void)
     system("cls");
 
     cout<<"THE END\n";
-    cout<<"YOUR TOTAL SCORE IS : \n\n"<<score;
+    cout<<"YOUR TOTAL SCORE IS : "<<score<<endl;
 
     system("pause");
 
