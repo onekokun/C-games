@@ -1,7 +1,6 @@
 #include<iostream>
 #include<conio.h>
 #include<ctime>
-#include<windows.h>
 #define SCREEN_HEIGHT 40
 #define SCREEN_WIDTH 50
 
